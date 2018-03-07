@@ -1,4 +1,4 @@
-package Practice03;
+/*package Practice03;
 
 import java.util.*;
 
@@ -32,3 +32,4 @@ public class Prac07 {
 	}
 
 }
+*/
